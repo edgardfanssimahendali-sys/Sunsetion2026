@@ -1,0 +1,6 @@
+{
+  "name": "SUNSETION 2026",
+  "description": "Official website for SUNSETION 2026, an annual creative tropical festival organized by Edgard Fans Simahendali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
